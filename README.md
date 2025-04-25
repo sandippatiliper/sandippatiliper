@@ -80,7 +80,7 @@
 
     <!-- Footer -->
     <div class="header" style="background: #333;">
-        <p>📞 Call Us: +91 98765 43210 | 📍 Mumbai, Delhi, Bangalore</p>
+        <p>📞 Call Us: +91 9404084862 | 
         <p>© 2024 Weight Loss Wallah. Results may vary.</p>
     </div>
 
